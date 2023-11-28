@@ -3,4 +3,3 @@ The repo will involve building ML model, creating APIs to send data and make pre
 
 (API)[http://127.0.0.1:8000/docs#/default/predict_sepsis_predict_post]
 
-
